@@ -1,0 +1,17 @@
+{
+    "post": [
+        {
+            "id":1,
+            "nome": "Thiago",
+            "mensagem": "Seja bem vindo ao blog!"
+        },{
+            "id": 2,
+            "nome": "Vinicius",
+            "mensagem": "Este blog é para aprender sobre tech"
+        },{
+            "id": 3,
+            "nome": "Soares",
+            "mensagem": "Primeira postagem"
+        }
+    ]
+}
